@@ -14,7 +14,6 @@ passlib == 1.7.4
 matplotlib == 3.4.2
 prophet
 pip==22.1.2
-plotly==5.9.0
 pystan==2.19.1.1
 python==3.8.13
 snappy==1.1.9
