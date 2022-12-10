@@ -15,7 +15,7 @@ matplotlib == 3.4.2
 prophet
 pip==22.1.2
 pystan==2.19.1.1
-python==3.8.13
+python
 snappy==1.1.9
 soupsieve==2.3.1
 sqlite==3.39.2
