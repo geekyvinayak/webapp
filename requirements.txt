@@ -13,7 +13,6 @@ google-auth == 1.30.0
 passlib == 1.7.4
 matplotlib == 3.4.2
 prophet
-arrow-cpp==8.0.0==py38hbd6f097_0
 arviz==0.12.1==pyhd8ed1ab_1
 asttokens==2.0.5==pyhd3eb1b0_0
 attrs==21.4.0==pyhd3eb1b0_0
