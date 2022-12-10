@@ -13,8 +13,6 @@ google-auth == 1.30.0
 passlib == 1.7.4
 matplotlib == 3.4.2
 prophet
-numpy==1.23.1
-pandas==1.4.3
 pip==22.1.2
 plotly==5.9.0
 pystan==2.19.1.1
