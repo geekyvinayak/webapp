@@ -15,4 +15,3 @@ matplotlib == 3.4.2
 prophet
 pip==22.1.2
 pystan==2.19.1.1
-streamlit==1.11.0
